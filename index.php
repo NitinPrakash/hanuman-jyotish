@@ -33,7 +33,7 @@
  $(document).ready(function(){   
    $("a.game").click(function(event){
      var pageURL = $(this).attr("href");
-     PopupCenter(pageURL, '',900,600)
+     PopupCenter(pageURL, '',1024,678)
      return false;
    });
  });
