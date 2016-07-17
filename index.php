@@ -27,7 +27,7 @@
 <link href="css/facebook.alert.css" rel="stylesheet" type="text/css" media="screen" />
 <link type='text/css' href='css/contact.css' rel='stylesheet' media='screen' />
 <link type='text/css' href="css/jquery.bookmark.css" rel='stylesheet' media='screen' />
-<script charset="utf-8" type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
+<script charset="utf-8" type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
 <script charset="utf-8" type="text/javascript" src="js/jquery.badBrowser.js"></script>
 <script type="text/javascript" language="javascript">
  $(document).ready(function(){   
@@ -88,7 +88,7 @@ window.google_analytics_uacct = "UA-17282201-6";
   <table width="100%">
     <tr>
 	  <td align="center">
-	    <table class="inner" width="400" border="1" cellpadding="5" cellspacing="5">
+	    <table class="inner" width="700" border="1" cellpadding="5" cellspacing="5">
 		    <tr><th colspan="3"><a href="http://www.janmakshar.co.in/Hanuman-Jyotish.htm" target="_blank">Hanuman Jyotish</a> By <a href="http://www.janmakshar.co.in" target="_blank">www.janmakshar.co.in</a></th></tr>
 			<tr>
 			  <td><a class="game" href="ManKaamPariksha.html">मन:काम परीक्षा </a></td>
@@ -124,16 +124,16 @@ window.google_analytics_uacct = "UA-17282201-6";
 			    <td colspan="3">
 				    <div style="text-align:center">
 					<script type="text/javascript">
-					google_ad_client = "pub-5118816121775309";
-					/* 300x250, created 11/07/11 */
-					google_ad_slot = "5613431886";
-					google_ad_width = 300;
-					google_ad_height = 250;
-					//
-					</script><script type="text/javascript"
-					src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-					</script></div>
-
+                                        google_ad_client = "pub-5118816121775309";
+                                        /* 300x250, created 11/07/11 */
+                                        google_ad_slot = "5613431886";
+                                        google_ad_width = 300;
+                                        google_ad_height = 250;
+                                        //
+                                        </script>
+                                        <script type="text/javascript"
+                                        src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+                                        </script></div>
 				</td>
 			</tr>						  
   		</table>
