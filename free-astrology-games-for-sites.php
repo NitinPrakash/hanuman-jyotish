@@ -91,34 +91,39 @@ window.google_analytics_uacct = "UA-17282201-6";
 	    <table class="inner" width="400" border="1" cellpadding="5" cellspacing="5">
 		    <tr><th colspan="3"><a href="http://www.janmakshar.co.in/Hanuman-Jyotish.htm" target="_blank">Hanuman Jyotish</a> By <a href="http://www.janmakshar.co.in" target="_blank">www.janmakshar.co.in</a></th></tr>
 			<tr>
-			  <td><a class="game" href="ManKaamPariksha.html">मन:काम परीक्षा </a></td>
-			  <td><a class="game" href="MilanPariksha.html">मिलन परीक्षा </a></td>
-			  <td><a class="game" href="VidyaPariksha.html">विद्या परीक्षा </a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/ManKaamPariksha.html">मन:काम परीक्षा </a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/MilanPariksha.html">मिलन परीक्षा </a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/VidyaPariksha.html">विद्या परीक्षा </a></td>
 			</tr>
 			<tr>
-			  <td><a class="game" href="Vivah-Pariksha.html"> विवाह परीक्षा </a></td>
-			  <td><a class="game" href="Vyapar-Pariksha.html">व्यापार परीक्षा</a></td>
-			  <td><a class="game" href="Rog-Pariksha.html">रोग परीक्षा </a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/Vivah-Pariksha.html"> विवाह परीक्षा </a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/Vyapar-Pariksha.html">व्यापार परीक्षा</a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/Rog-Pariksha.html">रोग परीक्षा </a></td>
 			</tr>
 			<tr>
-			  <td><a class="game" href="Garbh-Pariksha.html">गर्भ परीक्षा</a></td>
-			  <td><a class="game" href="Santaan-Pariksha.html">संतान परीक्षा</a></td>
-			  <td><a class="game" href="Yachna-Pariksha.html">याचना परीक्षा</a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/Garbh-Pariksha.html">गर्भ परीक्षा</a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/Santaan-Pariksha.html">संतान परीक्षा</a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/Yachna-Pariksha.html">याचना परीक्षा</a></td>
 			</tr>
 			<tr>
-			  <td><a class="game" href="Gaman-Pariksha.html">गमन परीक्षा</a></td>
-			  <td><a class="game" href="Agaman-Pariksha.html">आगमन परीक्षा</a></td>
-			  <td><a class="game" href="Sahayata-Pariksha.html">सहायता परीक्षा</a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/Gaman-Pariksha.html">गमन परीक्षा</a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/Agaman-Pariksha.html">आगमन परीक्षा</a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/Sahayata-Pariksha.html">सहायता परीक्षा</a></td>
 		    </tr>
 			<tr>
-			  <td><a class="game" href="Dhan-Chinta-Pariksha.html">धन चिंता परीक्षा</a></td>
-			  <td><a class="game" href="PraptiPariksha.html">प्राप्ति परीक्षा</a></td>
-			  <td><a class="game" href="GoodhShatroPariksha.html">गूढ़शत्रो:परीक्षा</a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/Dhan-Chinta-Pariksha.html">धन चिंता परीक्षा</a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/PraptiPariksha.html">प्राप्ति परीक्षा</a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/GoodhShatroPariksha.html">गूढ़शत्रो:परीक्षा</a></td>
 		    </tr>
 			<tr>
-			  <td><a class="game" href="Devesht-Pariksha.html">देवेष्ट परीक्षा</a></td>
-			  <td><a class="game" href="Ganga-Prapti-Pariksha.html">गंगा प्राप्ति परीक्षा</a></td>
-			  <td><a class="game" href="Mrityu-Chinta-Pariksha.html">मृत्यु चिंता परीक्षा</a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/Devesht-Pariksha.html">देवेष्ट परीक्षा</a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/Ganga-Prapti-Pariksha.html">गंगा प्राप्ति परीक्षा</a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/Mrityu-Chinta-Pariksha.html">मृत्यु चिंता परीक्षा</a></td>
+		    </tr>
+			<tr>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/VasniRupan-Pariksha.html">वास्निरूपन परीक्षा</a></td>
+			  <td><a class="game" href="http://hanuman-jyotish.janmakshar.co.in/Sang-Pariksha.html">संग परीक्षा</a></td>
+			  <td>&nbsp;</td>
 		    </tr>
             <tr>
 			    <td colspan="3">
