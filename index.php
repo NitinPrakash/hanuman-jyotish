@@ -88,7 +88,7 @@ window.google_analytics_uacct = "UA-17282201-6";
   <table width="100%">
     <tr>
 	  <td align="center">
-	    <table class="inner" width="97%" border="1" cellpadding="5" cellspacing="5">
+	    <table class="inner" width="90%" border="1" cellpadding="5" cellspacing="5">
 		    <tr><th colspan="3"><a href="http://www.janmakshar.co.in/Hanuman-Jyotish.htm" target="_blank">Hanuman Jyotish</a> By <a href="http://www.janmakshar.co.in" target="_blank">www.janmakshar.co.in</a></th></tr>
 			<tr>
 			  <td><a class="game" href="ManKaamPariksha.html">मन:काम परीक्षा </a></td>
