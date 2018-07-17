@@ -123,17 +123,14 @@ window.google_analytics_uacct = "UA-17282201-6";
                     <tr>
 			    <td colspan="3">
 				    <div style="text-align:center">
-					<script type="text/javascript">
-                                        google_ad_client = "pub-5118816121775309";
-                                        /* 300x250, created 11/07/11 */
-                                        google_ad_slot = "5613431886";
-                                        google_ad_width = 300;
-                                        google_ad_height = 250;
-                                        //
-                                        </script>
-                                        <script type="text/javascript"
-                                        src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
-                                        </script></div>
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-5118816121775309"
+     data-ad-slot="5613431886"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
 			    </td>
 		    </tr>
                     <tr>
